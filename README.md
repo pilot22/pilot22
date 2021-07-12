@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=pilot22&hide_border=true" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=pilot22" alt="GitHub Streak">
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=pilot22&show_icons=true" alt="Github Indicator">  
 </p>
 
 
