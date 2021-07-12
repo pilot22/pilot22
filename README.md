@@ -1,4 +1,6 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pilot22&hide_border=true)](https://git.io/streak-stats)
+<p align="center">
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pilot22)](https://git.io/streak-stats)
+</p>
 <!--
 **pilot22/pilot22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
