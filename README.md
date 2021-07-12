@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="200" src="https://github-readme-streak-stats.herokuapp.com?user=pilot22&hide_border=true" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pilot22&hide_border=true" alt="GitHub Streak">
 </p>
 <!--
 **pilot22/pilot22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
