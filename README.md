@@ -4,10 +4,6 @@
   
 
 ### ***<div align="center">I'm Louis, a junior full-stack developer 👨‍💻 since 2019 🚀</div>***  
-  
-
-- 🔭 I’m currently working on [Creators Area](https://github.com/creatorsarea) website V2 (https://creatorsarea.fr)
-  
 
 - 🌱 I’m currently learning Tailwindcss & Nuxt.js  
   
