@@ -13,7 +13,6 @@ Welcome to my profile! I'm a computer-science enthusiast, junior javascript deve
 
 [![Devart image](https://huggingface.co/datasets/Devartbio/landing/resolve/main/home_metadata.png)](https://devart.bio)
 
-<br/>  
 
 
 ## Languages and tools 👨‍💻
@@ -34,14 +33,8 @@ Welcome to my profile! I'm a computer-science enthusiast, junior javascript deve
 <img align="left" alt="Nginx" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" style="padding-right:10px;" />
 
 <br/>  
-
-
-
-<br/>  
 <br/> 
 
-
-
-## Github Stats  
+## GitHub stats 📊  
 <img src="https://github-readme-stats-neon-xi.vercel.app/api?username=pilot22&show_icons=true&count_private=true&hide_border=true&theme=dark" align="left" width="410px" height="182px" />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=pilot22&theme=dark&hide_border=true&card_width=430" width="400px" />
