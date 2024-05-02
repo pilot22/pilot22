@@ -17,21 +17,21 @@ Welcome to my profile! I'm a computer-science enthusiast, junior javascript deve
 
 
 ## Languages and tools 👨‍💻
-<img align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="TypeScript" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Divider" height="40px" width="30px" src="https://www.iconbolt.com/iconsets/radix-icons/divider-vertical.svg" style="padding-right:10px;" />
-<img align="left" alt="Tailwindcss" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" style="padding-right:10px;" />
-<img align="left" alt="VueJS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="NuxtJS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Tailwindcss" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" style="padding-right:10px;" />
+<img align="left" alt="VueJS" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="NuxtJS" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="React" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Divider" height="40px" width="30px" src="https://www.iconbolt.com/iconsets/radix-icons/divider-vertical.svg" style="padding-right:10px;" />
-<img align="left" alt="Express.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Nest.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MongoDB" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Express.js" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Nest.js" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="MongoDB" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Divider" height="40px" width="30px" src="https://www.iconbolt.com/iconsets/radix-icons/divider-vertical.svg" style="padding-right:10px;" />
-<img align="left" alt="Node.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Nginx" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Node.js" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Nginx" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" style="padding-right:10px;" />
 
 <br/>  
 
@@ -43,5 +43,5 @@ Welcome to my profile! I'm a computer-science enthusiast, junior javascript deve
 
 
 ## Github Stats  
-<img src="https://github-readme-stats-neon-xi.vercel.app/api?username=pilot22&show_icons=true&count_private=true&hide_border=true&theme=dark&card_width=420" align="left" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=pilot22&theme=dark&hide_border=true&card_width=450" align="left" />
+<img src="https://github-readme-stats-neon-xi.vercel.app/api?username=pilot22&show_icons=true&count_private=true&hide_border=true&theme=dark&card_width=400" align="left" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=pilot22&theme=dark&hide_border=true&card_width=430" align="left" />
