@@ -1,86 +1,47 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="300" width="600" />
-</div>  
-  
+# Hi I'm Louis 👋
 
-### ***<div align="center">I'm Louis, a junior full-stack developer 👨‍💻 since 2019 🚀</div>***  
+[![Linkedin Badge](https://img.shields.io/badge/-Louis-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/louis-champigneulle/)](https://www.linkedin.com/in/louis-champigneulle/)
+[![Discord Badge](https://img.shields.io/badge/-@lotpi2_-7289da?logo=discord&logoColor=white&link=https://discordapp.com/users/197380579816112128)](https://discordapp.com/users/197380579816112128)
+[![Twitter Badge](https://img.shields.io/badge/-@lotpi2_-1ca0f1?logo=twitter&logoColor=white&link=https://twitter.com/lotpi2_)](https://twitter.com/lotpi2_)
+<img align=right src="https://komarev.com/ghpvc/?username=pilot22&&style=flat-square" align="center" />
+<!-- [![Gmail Badge](https://img.shields.io/badge/-louis-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:louis@gmail.com)](mailto:louis@gmail.com)
+[![Website Badge](https://img.shields.io/badge/-louis-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://website)](https://website)   -->
 
+Welcome to my profile! I'm a computer-science enthusiast, junior javascript developer with amazing side-projects ! I'm currently a student in first year at Efrei Paris. Thanks for visiting and I'd love to connect!
 
-# ✨ Currently working on [devart.bio](https://devart.bio) (a new amazing portfolio service coming soon) with [@enzostvs](https://github.com/enzostvs) !
+<b> ✨ Currently working on [devart.bio](https://devart.bio) (a new amazing portfolio service coming soon) with [@enzostvs](https://github.com/enzostvs) ! </b>
 
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<!-- <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>   -->
-<!-- <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>   -->
-<!-- <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>   -->
-<a href="https://nuxtjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nuxt.png" alt="Nuxt JS" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="50" /></a>  
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
-<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<!-- <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>   -->
-<!-- <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>   -->
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" /></a>  
-<a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
-</div>
-
-</td></tr></table>  
+[![Devart image](https://huggingface.co/datasets/Devartbio/landing/resolve/main/home_metadata.png)](https://devart.bio)
 
 <br/>  
 
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/pilot22" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://gitlab.com/pilot22" target="_blank">
-<img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/lotpi2_" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+## Languages and tools 👨‍💻
+<img align="left" alt="JavaScript" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="TypeScript" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Divider" height="48px" width="30px" src="https://www.iconbolt.com/iconsets/radix-icons/divider-vertical.svg" style="padding-right:10px;" />
+<img align="left" alt="Tailwindcss" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" style="padding-right:10px;" />
+<img align="left" alt="VueJS" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="NuxtJS" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="React" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Divider" height="48px" width="30px" src="https://www.iconbolt.com/iconsets/radix-icons/divider-vertical.svg" style="padding-right:10px;" />
+<img align="left" alt="Express.js" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Nest.js" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="MongoDB" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Divider" height="48px" width="30px" src="https://www.iconbolt.com/iconsets/radix-icons/divider-vertical.svg" style="padding-right:10px;" />
+<img align="left" alt="Node.js" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Nginx" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" style="padding-right:10px;" />
 
 <br/>  
+
+
+
+<br/>  
+<br/> 
+
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats-neon-xi.vercel.app/api?username=pilot22&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=pilot22&&style=flat-square" align="center" />
-</div>  
+<img src="https://github-readme-stats-neon-xi.vercel.app/api?username=pilot22&show_icons=true&count_private=true&hide_border=true&theme=dark" align="left" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=pilot22&theme=dark&hide_border=true" align="left" />
