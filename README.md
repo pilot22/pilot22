@@ -6,14 +6,8 @@
 ### ***<div align="center">I'm Louis, a junior full-stack developer 👨‍💻 since 2019 🚀</div>***  
 
 
-- 🔭 I’m currently working on [developpeur.bio](https://developpeur.bio) (a new amazing portfolio service coming soon) with [@enzostvs](https://github.com/enzostvs) !
+# ✨ Currently working on [devart.bio](https://devart.bio) (a new amazing portfolio service coming soon) with [@enzostvs](https://github.com/enzostvs) !
 
-
-- 🌱 I’m currently learning Tailwindcss & Nuxt.js  
-
-  
-- ⚡ Fun fact: I use tabs over spaces  
-  
 
 <br/>  
 
