@@ -43,5 +43,5 @@ Welcome to my profile! I'm a computer-science enthusiast, junior javascript deve
 
 
 ## Github Stats  
-<img src="https://github-readme-stats-neon-xi.vercel.app/api?username=pilot22&show_icons=true&count_private=true&hide_border=true&theme=dark" align="left" width="410px" />
+<img src="https://github-readme-stats-neon-xi.vercel.app/api?username=pilot22&show_icons=true&count_private=true&hide_border=true&theme=dark" align="left" width="410px" height="182px" />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=pilot22&theme=dark&hide_border=true&card_width=430" width="400px" />
