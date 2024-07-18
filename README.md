@@ -11,7 +11,7 @@ Welcome to my profile! I'm a computer-science enthusiast, junior javascript deve
 
 <b> ✨ Currently working on [devart.bio](https://devart.bio) (a new amazing portfolio service coming soon) with [@enzostvs](https://github.com/enzostvs) ! </b>
 
-[![Devart image](https://huggingface.co/datasets/Devartbio/landing/resolve/main/home_metadata.png)](https://devart.bio)
+[![Devart image](https://i.devart.bio/landing/resolve/main/home_metadata.png)](https://devart.bio)
 
 
 
