@@ -7,7 +7,7 @@
 <!-- [![Gmail Badge](https://img.shields.io/badge/-louis-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:louis@gmail.com)](mailto:louis@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-louis-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://website)](https://website)   -->
 
-Welcome to my profile! I'm a computer-science enthusiast, junior javascript developer with amazing side-projects ! I'm currently a student in first year at Efrei Paris. Thanks for visiting and I'd love to connect!
+Welcome to my profile! I'm a computer-science enthusiast, junior developer with amazing side-projects ! I'm currently a second year student at Efrei Paris. Thanks for visiting!
 
 <b> ✨ Currently working on [devart.bio](https://devart.bio) (a new amazing portfolio service coming soon) with [@enzostvs](https://github.com/enzostvs) ! </b>
 
