@@ -9,7 +9,7 @@
 
 Welcome to my profile! I'm a computer-science enthusiast, junior developer with amazing side-projects ! I'm currently a second year student at Efrei Paris. Thanks for visiting!
 
-<b> ✨ Currently working on [devart.bio](https://devart.bio) (a new amazing portfolio service coming soon) with [@enzostvs](https://github.com/enzostvs) ! </b>
+<b> ✨ Currently working on [devart.bio](https://devart.bio) (a new amazing portfolio service) with [@enzostvs](https://github.com/enzostvs) ! </b>
 
 [![Devart image](https://i.devart.bio/landing/resolve/main/home_metadata.png)](https://devart.bio)
 
